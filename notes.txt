@@ -1,0 +1,4 @@
+Linear regression models: Boston house prices
+https://www.youtube.com/watch?v=6YaOJrEEyiE&t=1922s&ab_channel=Ra%C3%BAlValerio-Statistics
+
+
