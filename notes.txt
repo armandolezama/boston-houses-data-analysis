@@ -1,4 +1,34 @@
-Linear regression models: Boston house prices
+Analisis de Regresion Lineal Multiple: Comprobacion de supuestos #Python Multicolinealidad Varianza *Watched*
 https://www.youtube.com/watch?v=6YaOJrEEyiE&t=1922s&ab_channel=Ra%C3%BAlValerio-Statistics
 
+Analisis Outliers Y Regresion Lineal Multiple Eliminar Multicolinealidad varianza constante Python (00:52)
+https://www.youtube.com/watch?v=EnIaNFVC3vM&ab_channel=Ra%C3%BAlValerio-Statistics
 
+
+
+
+AIC and BIC references:
+
+Akaike Information Criterion
+https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/akaike-information-criterion
+
+Criterio de información de Akaike
+https://es.wikipedia.org/wiki/Criterio_de_informaci%C3%B3n_de_Akaike
+
+Criterio de información bayesiano
+https://es.wikipedia.org/wiki/Criterio_de_informaci%C3%B3n_bayesiano
+
+
+Stepwise references:
+
+Stepwise Regression: Definition, Uses, Example, and Limitations
+https://www.investopedia.com/terms/s/stepwise-regression.asp#:~:text=Stepwise%20regression%20is%20the%20step,statistical%20significance%20after%20each%20iteration.
+
+Stepwise regression
+https://en.wikipedia.org/wiki/Stepwise_regression
+
+Box-Cox Transformation and Target Variable: Explained
+https://builtin.com/data-science/box-cox-transformation-target-variable
+
+Transformación Box-Cox
+https://es.wikipedia.org/wiki/Transformaci%C3%B3n_Box-Cox
