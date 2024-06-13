@@ -91,3 +91,19 @@ class Data_Module:
       self.datasets[dataset_name] = self.datasets[dataset_name].drop(to_drop, axis=1)
     else:
       self.df = self.df.drop(to_drop, axis=1)
+
+  def get_numeric_columns(self, dataset_name=''):
+    full_data_set = self.df
+
+    if dataset_name in self.datasets:
+      full_data_set = self.datasets[dataset_name]
+
+    return full_data_set.select_dtypes(include=[np.number, 'float64', 'int64']).columns
+
+  def get_data(self, dataset_name=''):
+    full_data_set = self.df
+
+    if dataset_name in self.datasets:
+      full_data_set = self.datasets[dataset_name]
+
+    return full_data_set
